@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905028068994",
+    "project_id": "naturshop-8368a",
+    "storage_bucket": "naturshop-8368a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905028068994:android:bb0659eee77f847a64f69b",
+        "android_client_info": {
+          "package_name": "com.naturshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvLnYqSsjMPRQGPTU4SlcK-h08EcftLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
